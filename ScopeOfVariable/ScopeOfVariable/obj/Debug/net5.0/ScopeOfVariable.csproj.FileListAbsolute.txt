@@ -1,0 +1,16 @@
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\bin\Debug\net5.0\ScopeOfVariable.exe
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\bin\Debug\net5.0\ScopeOfVariable.deps.json
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\bin\Debug\net5.0\ScopeOfVariable.runtimeconfig.json
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\bin\Debug\net5.0\ScopeOfVariable.runtimeconfig.dev.json
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\bin\Debug\net5.0\ScopeOfVariable.dll
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\bin\Debug\net5.0\ref\ScopeOfVariable.dll
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\bin\Debug\net5.0\ScopeOfVariable.pdb
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\obj\Debug\net5.0\ScopeOfVariable.csproj.AssemblyReference.cache
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\obj\Debug\net5.0\ScopeOfVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\obj\Debug\net5.0\ScopeOfVariable.AssemblyInfoInputs.cache
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\obj\Debug\net5.0\ScopeOfVariable.AssemblyInfo.cs
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\obj\Debug\net5.0\ScopeOfVariable.csproj.CoreCompileInputs.cache
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\obj\Debug\net5.0\ScopeOfVariable.dll
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\obj\Debug\net5.0\ref\ScopeOfVariable.dll
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\obj\Debug\net5.0\ScopeOfVariable.pdb
+D:\trungtd\Solution_basic_c#\ScopeOfVariable\ScopeOfVariable\obj\Debug\net5.0\ScopeOfVariable.genruntimeconfig.cache
